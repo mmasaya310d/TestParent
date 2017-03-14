@@ -1,0 +1,4 @@
+[submodule "TestSubmodule"]
+	path = TestSubmodule
+	url = git@github.com:mmasaya310d/TestResource.git
+	branch = develop
